@@ -1,7 +1,7 @@
 # CRUDS
 
 ## Live Demo
-Visit Website: https://elamed2007.github.io/crud-project/
+Visit Website: https://mohammed-laabidi.github.io/crud-project/
 
 ## Technologies
 - HTML5
